@@ -12,9 +12,6 @@ h3 {
 h4 {
   color: rgb(255,255,255);
 }
-body{
-  background-color: gray;
-}
 html { 
   background: url("https://cloud.githubusercontent.com/assets/8130577/3563942/5a9d7a1a-0a60-11e4-8d2c-e442d3f6e2bd.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
